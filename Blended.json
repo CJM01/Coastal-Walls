@@ -1,0 +1,160 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Bobby Bray"
+            },
+            {
+                "name": "Ken Christian"
+            },
+            {
+                "name": "James Horton"
+            },
+            {
+                "name": "Drone Wolf Media"
+            },
+            {
+                "name": "Corey Morales"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Sunrise"
+            },
+            {
+                "name": "Clouds"
+            },
+            {
+                "name": "Animals"
+            },
+            {
+                "name": "Coast"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Ken Christian",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/shorty.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/shorty.png",
+				"name": "Sunrise in O.S.",
+                "category": "Ken Christian,Sunrise,Coast"
+			},
+            {
+				"author": "Bobby Bray",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bbay001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bbay001.png",
+				"name": "Morning Clouds",
+                "category": "Bobby Bray,Sunrise,Clouds,Coast"
+			},
+            {
+				"author": "James Horton",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton.png",
+				"name": "The Docks",
+                "category": "James Horton,Coast"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/cjm1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/cjm1.png",
+				"name": "Gulf Coast Sunset",
+                "category": "Corey Morales,Sunset,Coast"
+			},
+            {
+				"author": "Drone Wolf Media",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/untitled.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/untitled.jpg",
+				"name": "Placeholder",
+                "category": "Drone Wolf Media"
+			},
+            {
+				"author": "Bobby Bray",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray2.png",
+				"name": "Back Bay Biloxi",
+                "category": "Bobby Bray,Sunrise"
+			},
+            {
+				"author": "James Horton",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton1.png",
+				"name": "the Fishing Hole",
+                "category": "James Horton,Sunrise"
+			},
+            {
+				"author": "Ken Christian",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/cross.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/cross.png",
+				"name": "Cross",
+                "category": "Ken Christian,Coast,Clouds"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/point.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/point.png",
+				"name": "Sunrise",
+                "category": "Corey Morales,Sunrise"
+			},
+            {
+				"author": "James Horton",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton4.png",
+				"name": "North Carolina Sunset",
+                "category": "James Horton,Sunset,Coast"
+			},
+            {
+				"author": "Bobby Bray",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray3.png",
+				"name": "Red Bird Morning",
+                "category": "Bobby Bray,Sunrise"
+			},
+            {
+				"author": "James Horton",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton8.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton8.png",
+				"name": "Old Dam",
+                "category": "James Horton"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/cjm2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/cjm2.png",
+				"name": "Cloudy Sunset",
+                "category": "Corey Morales,Sunset,Coast,Clouds"
+			},
+            {
+				"author": "Drone Wolf Media",
+				"url": "https://github.com/CJM01/Coastal-Walls/blob/master/untitled.jpg",
+				"thumbUrl": "https://github.com/CJM01/Coastal-Walls/blob/master/untitled.jpg",
+				"name": "Placeholder",
+                "category": "Drone Wolf Media"
+			},
+            {
+				"author": "Bobby Bray",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray4.png",
+				"name": "Morning Fog",
+                "category": "Bobby Bray,Sunrise"
+			},
+            {
+				"author": "Bobby Bray",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray5.png",
+				"name": "Foggy Morning",
+                "category": "Bobby Bray,Sunrise"
+			}
+		]
+}
