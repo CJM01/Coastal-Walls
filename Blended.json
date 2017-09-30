@@ -26,16 +26,7 @@
                 "name": "Clouds"
             },
             {
-                "name": "Animals"
-            },
-            {
                 "name": "Coast"
-            },
-            {
-                "name": "Beach"
-            },
-            {
-                "name": "Road"
             },
             {
                 "name": "Black and White"
@@ -63,7 +54,7 @@
 				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/james_horton.png",
 				"name": "The Docks",
-                "category": "James Horton,Coast"
+                "category": "James Horton,Coast,Black and White"
 			},
             {
 				"author": "Corey Morales",
