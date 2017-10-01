@@ -26,7 +26,16 @@
                 "name": "Clouds"
             },
             {
+                "name": "Blender"
+            },
+            {
+                "name": "Dark"
+            },
+            {
                 "name": "Coast"
+            },
+            {
+                "name": "Material"
             },
             {
                 "name": "Black and White"
@@ -146,6 +155,76 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bobby_bray5.png",
 				"name": "Foggy Morning",
                 "category": "Bobby Bray,Sunrise"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920.png",
+				"name": "Picture",
+                "category": "Material,Blender"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920_2.png",
+				"name": "Picture",
+                "category": "Material,Blender"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920_3.png",
+				"name": "Blue Material",
+                "category": "Material,Blender"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/material1920_5.png",
+				"name": "Material V",
+                "category": "Material,Blender"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_202.4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_202.4.jpg",
+				"name": "Light Blue Material Bar",
+                "category": "Material,Blender"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_202.3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_202.3.jpg",
+				"name": "Lavender Material Bar",
+                "category": "Material,Blender"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_202.2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_202.2.jpg",
+				"name": "Grey Material Bar",
+                "category": "Material,Blender,Dark"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_100.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered_100.jpg",
+				"name": "Blue Material Shapes",
+                "category": "Material,Blender"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered3.png",
+				"name": "Grey Material Shapes",
+                "category": "Material,Blender,Dark"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered2.png",
+				"name": "Black Material Shapes",
+                "category": "Material,Blender,Dark"
 			}
 		]
 }
