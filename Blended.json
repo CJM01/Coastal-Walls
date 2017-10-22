@@ -137,9 +137,9 @@
 			},
             {
 				"author": "Dronewolf Media",
-				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/untitled.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/untitled.jpg",
-				"name": "Placeholder",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/0bdaa0bbcdc647443c7bf0eb01ea6504c5020afd/RIver%20Boat.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/0bdaa0bbcdc647443c7bf0eb01ea6504c5020afd/RIver%20Boat.jpg",
+				"name": "River Boat",
                 "category": "Dronewolf Media"
 			},
             {
@@ -225,6 +225,20 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/feathered2.png",
 				"name": "Black Material Shapes",
                 "category": "Material,Blender,Dark"
+			},
+            {
+				"author": "Dronewolf Media",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/0bdaa0bbcdc647443c7bf0eb01ea6504c5020afd/Mountians.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/0bdaa0bbcdc647443c7bf0eb01ea6504c5020afd/Mountians.jpg",
+				"name": "Mountians",
+                "category": "Dronewolf Media"
+			},
+            {
+				"author": "Dronewolf Media",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/0bdaa0bbcdc647443c7bf0eb01ea6504c5020afd/Blacktail%20reservoir.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/0bdaa0bbcdc647443c7bf0eb01ea6504c5020afd/Blacktail%20reservoir.jpg",
+				"name": "Blacktail Reservoir",
+                "category": "Dronewolf Media"
 			}
 		]
 }
