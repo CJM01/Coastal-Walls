@@ -39,6 +39,9 @@
             },
             {
                 "name": "Black and White"
+            },
+            {
+                "name": "Rounded Walls"
             }
         ],
     
@@ -232,6 +235,13 @@
 				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/0bdaa0bbcdc647443c7bf0eb01ea6504c5020afd/Blacktail%20reservoir.jpg",
 				"name": "Blacktail Reservoir",
                 "category": "Dronewolf Media"
+			},
+            {
+				"author": "Corey Morales",
+				"url": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bayboat_2-rounded.png",
+				"thumbUrl": "https://raw.githubusercontent.com/CJM01/Coastal-Walls/master/bayboat_2-rounded.png",
+				"name": "Back Bay Tug",
+                "category": "Corey Morales,Rounded Walls"
 			}
 		]
 }
